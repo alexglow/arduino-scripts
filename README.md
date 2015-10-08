@@ -6,3 +6,6 @@ For Arduino, Teensy, TinyDuino, ...
 
 ## TinyLily
 * HapticLily - For the Nautilus hypnagogia pendant: https://www.hackster.io/glowascii/nautilus
+
+## LeapDuino.js
+* This is a Cylon.js script that you can use to control an Arduino with a Leap Motion gestural controller: https://www.hackster.io/glowascii/office-handwave
